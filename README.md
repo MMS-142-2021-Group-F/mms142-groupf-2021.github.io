@@ -13,6 +13,7 @@ Conclusion
 
 There are also online booking platforms that operates as an online marketplace. This means that the system does not own what are being sold on their platform but is accepting commissions from businesses posting their lodging services in to the platform. For example, Airbnb, it does not only operates for 1 or 2 hotels but is open to any home or room owner who accepts renting out their local homes for accommodation. Opening a booking online marketplace will be a threat to companies who have set up their own booking sytem solely for only their place or service. Locals who want to avail a place or service would prefer a booking marketplace since they will have more options rather than choosing from one company. 
 
+*Idk if this is supposed to be the Definition of the term Disruptive technology or not
 
 # What is an online booking system and how does it work
 
@@ -67,6 +68,13 @@ Today, the online booking system is widely used and has been growing in populari
 
 With the advancement of technologies, many businesses are beginning to adopt online booking systems to automatically update and track processes, such as scheduling, payment, managing availability, and notification reminders to deliver a smooth booking experience to users and eliminate various possible risks associated with manual input and human error. Especially during the past season when the Covid-19 pandemic forced many people to switch nearly all the usual day-to-day tasks to an online platform. More and more people rely on online bookings as it is integrated into a website, app, or even on social media pages with simply the use of mobile devices and the Internet with ease rather than phone calls or emails. In addition, it allows users to access 24/7 from anywhere. Thus, it gives them the freedom to instantly see and check availability, reserve, and pay for their services online, whether home rentals, staycations, rideshares, etc., without waiting for the next day to make a booking or reservation. Indeed, the online booking system has become essential in today’s era. It is modernizing and constantly exploring new opportunities to evolve and become more reliable, efficient, user-friendly, and time-saving for both customers and employees.
 
+# Why is Online Booking considered to be Disruptive?
+
+One of the biggest reasons to why this technology is making waves causing disruption is due to the fact that consumers can book more diverse options from a wider pool of providers offering staycations in their homes or a rideshare with their own cars under easy to access platforms that suite their personal preferences in a cost effective and convienient manner compared to the traditional players of these industries leading to people gravitating towards the former. 
+
+Also to add to that, these platforms are powered primarily by tech companies that focus on the booking application process and support itself while the providers handle the actual services which leads to a lot of flexibility, consumer empowerment and less cost to maintain for the tech platform in general.
+
+Another clear indication of the disruption is that the traditional players are properly starting to adapt this tech towards their business in multiple ways, either by working with the tech firms running these new platforms (operating taxi bookings on Grab etc.) or improving their own established systems (constant improvement of services from the Expedia Group and Booking Holdings, two of the biggest existing online bookers for traditional traveling) in order to compete in this new market landscape or to suffer irrelevancy as a result.
 
 
 # REFERENCES
