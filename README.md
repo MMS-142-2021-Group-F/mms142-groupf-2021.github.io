@@ -70,9 +70,7 @@ With the advancement of technologies, many businesses are beginning to adopt onl
 
 # ALTERNATIVES:
 
-According to New York Curbed by Megan Barber, Airbnb is undeniably popular: Now in 100,000 cities, with seven million rental listings worldwide. At the same time, the company and its competitors have battled local zoning laws that prohibit short-term rentals and fought grassroots movements aiming to limit where and how short-term rental companies can operate. 
-
-These are a helpful guide from Megan to other options in the vacation rental market:
+According to New York Curbed by Megan Barber, Airbnb is undeniably popular: Now in 100,000 cities, with seven million rental listings worldwide. At the same time, the company and its competitors have battled local zoning laws that prohibit short-term rentals and fought grassroots movements aiming to limit where and how short-term rental companies can operate. These are a helpful guide from Megan Barber to other options in the vacation rental market:
 
 - Sonder https://www.sonder.com/ - This new site mixes the amenities of hotels with the conveniences found in rental apartments. Sounder offers a fully automated check-in process and provides high-speed WiFi, towels, in-suite laundry, and coffee in every rental. They are currently in most major U.S. cities but have also expanded abroad with rentals in Dubai, London, Dublin, Mexico City, Rome, and Toronto.
 
