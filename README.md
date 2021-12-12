@@ -102,7 +102,7 @@ From the Travel Freak.com by Jeremy Scott Foster, these are his recommended alte
 
 - onefinestay https://www.onefinestay.com/ - It offers upscale vacation rentals in London, Los Angeles, New York, Paris, and Rome. They call their curated collection of homes “unhotels.”
 
-Hipcamp https://www.hipcamp.com/en-US - Hipcamp caters entirely to campers and for nature lovers, but the listings here cover a huge range of different accommodations, including tents, RV parks, cabins, and treehouses. Hipcamps lists 13,047 parks, 25,978 campgrounds, and 425,938 campsites all over the States.
+- Hipcamp https://www.hipcamp.com/en-US - Hipcamp caters entirely to campers and for nature lovers, but the listings here cover a huge range of different accommodations, including tents, RV parks, cabins, and treehouses. Hipcamps lists 13,047 parks, 25,978 campgrounds, and 425,938 campsites all over the States.
 
 - Agoda Homes https://www.agoda.com/homes - This has long been the largest online travel agency in Asia, providing more than 1.8 million quality accommodations ranging from hotels, resorts, budget hostels, and now, homes.
 
