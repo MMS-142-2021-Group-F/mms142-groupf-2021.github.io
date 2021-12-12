@@ -12,6 +12,9 @@ Alternatives? Conclusion Conz(a), Gibas(b) (part 7 a,b)
 
 # What is Disruptive Technology?
 
+There are also online booking platforms that operates as an online marketplace. This means that the system does not own what are being sold on their platform but is accepting commissions from businesses posting their lodging services in to the platform. For example, Airbnb, it does not only operates for 1 or 2 hotels but is open to any home or room owner who accepts renting out their local homes for accommodation. Opening a booking online marketplace will be a threat to companies who have set up their own booking sytem solely for only their place or service. Locals who want to avail a place or service would prefer a booking marketplace since they will have more options rather than choosing from one company. 
+
+
 # What is an online booking system and how does it work
 
 An online booking system allows customers to appoint or reserve a service conveniently through digital platforms where they can browse the amenities and features of a service and pay in advance by online transfer. This process ensures a quick and secure way for clients to get the best service they need. It is also efficient for businesses as its system “updates all changes in information and schedule and reflects them in real-time so that both you and your customers see it” (Maslovska, 2018) while keeping necessary information private with security keys.
