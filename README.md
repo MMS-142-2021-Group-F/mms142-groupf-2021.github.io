@@ -2,8 +2,8 @@
 
 Topic: Online Booking Systems (services and rentals)
 
-Extended definition of disruptive technology (2) - Soji (part1)
-Online booking of services such as home rentals, staycations, rideshares etc. (part 2 ) 
+Extended definition of disruptive technology (2) - Soji (part1) 
+Online booking of services such as home rentals, staycations, rideshares etc. (part 2 )
 What is it / How does it work - Ashley (a), Maricar (b) (part 3 a, b)
 Brief history and current situation - Preciosa (part 4 )
 Why is it disruptive - Gab(a), Loise Aouie(b) (part 5 a.b)
