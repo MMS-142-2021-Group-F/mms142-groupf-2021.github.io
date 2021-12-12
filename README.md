@@ -131,6 +131,8 @@ Barber, M. (2020, September 24). The 10 Best Alternatives to Airbnb. New York Cu
 
 Foster, J.S. (2021, July 30). 15 Airbnb Alternatives You Should Know About. TravelFreak. https://travelfreak.com/airbnb-alternative/
 
+Bearne, S. (2017, December 29). How technology has transformed the travel industry. The Guardian. https://www.theguardian.com/media-network/2016/feb/29/technology-internet-transformed-travel-industry-airbnb
 
+Bio, A. R., Bremner, C., Yasmeen, R., Bremner, C., Bremner, C., & Chokossa, C. (2021, March 23). Disruptive Innovation Proceeds Steadily in Online Travel: Euromonitor. https://www.euromonitor.com/article/disruptive-innovation-proceeds-steadily-in-online-travel-the-key-trends
 
-
+R, M. (2019, December 1). How disruptive tech companies disrupt our norms: Airbnb. Medium. https://medium.com/swlh/how-disruptive-tech-companies-disrupt-our-norms-airbnb-b9d4698713a5
