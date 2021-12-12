@@ -67,6 +67,22 @@ Today, the online booking system is widely used and has been growing in populari
 
 With the advancement of technologies, many businesses are beginning to adopt online booking systems to automatically update and track processes, such as scheduling, payment, managing availability, and notification reminders to deliver a smooth booking experience to users and eliminate various possible risks associated with manual input and human error. Especially during the past season when the Covid-19 pandemic forced many people to switch nearly all the usual day-to-day tasks to an online platform. More and more people rely on online bookings as it is integrated into a website, app, or even on social media pages with simply the use of mobile devices and the Internet with ease rather than phone calls or emails. In addition, it allows users to access 24/7 from anywhere. Thus, it gives them the freedom to instantly see and check availability, reserve, and pay for their services online, whether home rentals, staycations, rideshares, etc., without waiting for the next day to make a booking or reservation. Indeed, the online booking system has become essential in today’s era. It is modernizing and constantly exploring new opportunities to evolve and become more reliable, efficient, user-friendly, and time-saving for both customers and employees.
 
+# What field/market is it disrupting?
+
+New technologies have affected numerous industries within the past decade. Traditional hospitality businesses and travel agencies have transitioned to using new business models such as alternative accommodation like Airbnb and Housetrip, and ride-sharing applications like Uber. These new business models are derived from online booking systems and have been impacting customers’ and hospitality businesses alike.
+
+In the digital age, we’ve put more importance on personalized services. This would mean that industries who can offer customised experiences become more relevant.
+
+According to Angelo Rossini (Bearne, 2016), a contributing analyst at Euromonitor International, “Traditional travel distribution in which high street travel agencies played a dominant role was revolutionised with online travel agencies and direct distribution through airlines and hotels’ websites acquiring a key role.” Rossini adds that the rise of independent travel killed off tour operators and traditional travel agencies (Bearne, 2016). The disruption has affected both the **travel industry** and **hospitality industries** like **hotel and/or lodging** forcing them to adapt, thus introducing the online booking system.
+
+Airbnb, as one of the biggest disruptor to the travel industry, gave rise to numerous similar online lodging companies. Within an ever-evolving space, this technology has given small businesses a platform, thus expanding the reach and accessibility of this phenomenon.
+
+Consumer relations and hospitality have also been reshaped by technology. With an online booking system, communication and travel are made easy. Stephan Croix, the vice-president of marketing at Starwood Hotels and Resorts, owner of hotel chains W Hotels and Aloft, states that “it is also transforming every phase of hospitality – from finding a hotel, to checking in, to unlocking your door and personalising your stay. As travel is inherently mobile, travellers expect to use their mobile devices to enrich their travel experiences” (Bearne, 2016).
+
+Through the use of online booking systems, these affected industries can provide more convenient processes and allow customers more control over their experience. Industries who use online booking systems will appeal to guests because they focus on giving them options about the commodities they want to see like choice accommodations or expected amenities. On the other hand, hoteliers and travel agencies use online booking systems to manage reservations, availability, billing and reporting. This allows owners to manage business operations efficiently.
+
+Because of this, the customer journey is transforming. What’s next for these industries is to live up to client expectations and think of more ways to stay afloat.
+
 
 # Alternatives
 
@@ -119,7 +135,15 @@ Through the years, online booking made everything more comfortable, fast, conven
 
 
 # References
+5 Reasons Why Using A Booking Reservation System Would Help Improve Your Efficiency. (2019, June 28). Ingenium Web. https://www.ingeniumweb.com/blog/post/5-reasons-why-using-a-booking-reservation-system-would-help-improve-your-efficiency/4548/
+
+8 Disruptive Hotel Technology Trends to Watch in 2022. (2021, December 7). Hotel Tech Report. https://hoteltechreport.com/news/hotel-tech-trends-2021
+ 
+10 Best Property Management Systems for Hotels 2021. (n.d.). Hotel Tech Report.  https://hoteltechreport.com/operations/property-management-systems#overview
+
 Barber, M. (2020, September 24). The 10 Best Alternatives to Airbnb. New York Curbed. https://www.curbed.com/article/airbnb-vacation-rental-alternatives.html
+
+Bearne, S. (2016, Feb. 29). How technology has transformed the travel industry. The Guardian. https://www.theguardian.com/media-network/2016/feb/29/technology-internet-transformed-travel-industry-airbnb
 
 Foster, J.S. (2021, July 30). 15 Airbnb Alternatives You Should Know About. TravelFreak. https://travelfreak.com/airbnb-alternative/
 
