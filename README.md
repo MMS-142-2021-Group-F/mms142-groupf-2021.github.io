@@ -68,7 +68,7 @@ Today, the online booking system is widely used and has been growing in populari
 With the advancement of technologies, many businesses are beginning to adopt online booking systems to automatically update and track processes, such as scheduling, payment, managing availability, and notification reminders to deliver a smooth booking experience to users and eliminate various possible risks associated with manual input and human error. Especially during the past season when the Covid-19 pandemic forced many people to switch nearly all the usual day-to-day tasks to an online platform. More and more people rely on online bookings as it is integrated into a website, app, or even on social media pages with simply the use of mobile devices and the Internet with ease rather than phone calls or emails. In addition, it allows users to access 24/7 from anywhere. Thus, it gives them the freedom to instantly see and check availability, reserve, and pay for their services online, whether home rentals, staycations, rideshares, etc., without waiting for the next day to make a booking or reservation. Indeed, the online booking system has become essential in today’s era. It is modernizing and constantly exploring new opportunities to evolve and become more reliable, efficient, user-friendly, and time-saving for both customers and employees.
 
 
-# ALTERNATIVES:
+# Alternatives
 
 According to New York Curbed by Megan Barber, Airbnb is undeniably popular: Now in 100,000 cities, with seven million rental listings worldwide. At the same time, the company and its competitors have battled local zoning laws that prohibit short-term rentals and fought grassroots movements aiming to limit where and how short-term rental companies can operate. These are a helpful guide from Megan Barber to other options in the vacation rental market:
 
@@ -118,8 +118,9 @@ Hipcamp https://www.hipcamp.com/en-US - Hipcamp caters entirely to campers and f
 Through the years, online booking made everything more comfortable, fast, convenient, and practical. Everything has its pros and cons though. As mentioned above, in some ways, it is disruptive. It's not like we can go back to the traditional ways though. Technically, we can. Still, we would never opt to do so. Technology is constantly upgrading and so are our ways. We would be left out by the world if we don't apply changes like how every other part of the world is doing so. The only option we have is to choose the best ones that are currently available. In this case, which online booking system, despite its flaws and disruptiveness will benefit us the most? As time passes by, the current issues that we have with will most probably be resolved though there would be new ones.
 
 
-# REFERENCES
+# References
 Barber, M. (2020, September 24). The 10 Best Alternatives to Airbnb. New York Curbed. https://www.curbed.com/article/airbnb-vacation-rental-alternatives.html
+
 Foster, J.S. (2021, July 30). 15 Airbnb Alternatives You Should Know About. TravelFreak. https://travelfreak.com/airbnb-alternative/
 
 
