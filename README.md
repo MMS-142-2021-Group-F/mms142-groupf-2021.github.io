@@ -113,7 +113,7 @@ Hipcamp https://www.hipcamp.com/en-US - Hipcamp caters entirely to campers and f
 - HomeToGo https://www.hometogo.com/ - HomeToGo is one of the best options for people on a strict budget. Since they compare so many prices for rentals from hundreds of providers and they guarantee to give the best price.
 
 
-**Conclusion **
+# Conclusion 
 
 Through the years, online booking made everything more comfortable, fast, convenient, and practical. Everything has its pros and cons though. As mentioned above, in some ways, it is disruptive. It's not like we can go back to the traditional ways though. Technically, we can. Still, we would never opt to do so. Technology is constantly upgrading and so are our ways. We would be left out by the world if we don't apply changes like how every other part of the world is doing so. The only option we have is to choose the best ones that are currently available. In this case, which online booking system, despite its flaws and disruptiveness will benefit us the most? As time passes by, the current issues that we have with will most probably be resolved though there would be new ones.
 
