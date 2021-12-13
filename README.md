@@ -78,46 +78,28 @@ Another clear indication of the disruption is that the traditional players are p
 
 According to New York Curbed by Megan Barber, Airbnb is undeniably popular: Now in 100,000 cities, with seven million rental listings worldwide. At the same time, the company and its competitors have battled local zoning laws that prohibit short-term rentals and fought grassroots movements aiming to limit where and how short-term rental companies can operate. These are a helpful guide by Megan Barber to other options in the vacation rental market:
 
-- Sonder https://www.sonder.com/
-Sounder offers a fully automated check-in process and provides high-speed WiFi, towels, in-suite laundry, and coffee in every rental. They are currently in most major U.S. cities but have also expanded abroad with rentals in Dubai, London, Dublin, Mexico City, Rome, and Toronto.
-- Sabbatical Homes https://www.sabbaticalhomes.com/
-A listing service originally dedicated to temporary housing for visiting scholars, Sabbatical Homes provides short-term and medium-term home rentals and exchanges in 57 countries to both academics and non-academics alike. Low listings fees keep costs down (fees are slightly higher if you are not an academic), and members work out rental terms with each other. Once a member has found a match, they can decide on an honor-based success fee of any amount that supports Sabbatical Homes and keeps the site advertisement-free.
-- Vacasa https://www.vacasa.com/
-This Portland-based vacation rental company and offers around 25,000 vacation homes around the world. Instead of relying on the home-sharing system, Vacasa curates the properties and pays over employees to clean and maintain them. Even though Vacasa isn’t a peer-to-peer home-sharing company, it still offers good prices on vacation rentals and claims more consistent quality than competitors like Airbnb.
-- The Plum Guide https://www.plumguide.com/
-This London-based start-up bills itself as the Michelin Guide for vacation homes. The company selects its properties based on 150-point.  With properties in London, Paris, New York, Los Angeles, Rome, Milan, Copenhagen, Madrid, Barcelona, Lisbon, Berlin, and more, The Plum Guide also has a customer service that team that is available via call back, email, or a live chat.
-- Kid and Coe https://www.kidandcoe.com/
-Enter Kid and Coe, a site launched in 2013 that offers plenty of kid-focused amenities. Listings tell parents exactly how many people – and what age – the property can handle, and the site offers extensive descriptions of toys, baby gear, and beds.
-- BoutiqueHomes https://www.boutique-homes.com/
-If architecture and design are just as important as relaxation on your vacation, Boutique Homes could be the site for you. With a highly curated collection of design-driven homes—listed by invitation only –Boutique Homes offers dramatic locations and stays in some of the most beautiful properties in the world. It also provides an impressive list of event venues available for rent.
-- FlipKey https://www.flipkey.com/
-Now owned by TripAdvisor, FlipKey doesn’t provide shared rooms, but you can use lots of filters to find the perfect dog-friendly, kid-friendly, or waterfront property.
-- Homestay https://www.homestay.com/
-If cost is your biggest deciding factor, consider booking with Homestay. But by booking with Homestay, you get an in-the-know local who can give advice and help you navigate the city. 
-- Wimdu https://www.wimdu.com/
-Wimdu has about 350,000 properties around the world and is especially popular in Europe. There’s a nice selection of well-priced properties, from a room in an Amsterdam apartment to a whole-house getaway in Croatia. 
+- Sonder https://www.sonder.com/ - Sounder offers a fully automated check-in process and provides high-speed WiFi, towels, in-suite laundry, and coffee in every rental. They are currently in most major U.S. cities but have also expanded abroad with rentals in Dubai, London, Dublin, Mexico City, Rome, and Toronto.
+- Sabbatical Homes https://www.sabbaticalhomes.com/ - A listing service originally dedicated to temporary housing for visiting scholars, Sabbatical Homes provides short-term and medium-term home rentals and exchanges in 57 countries to both academics and non-academics alike. Low listings fees keep costs down (fees are slightly higher if you are not an academic), and members work out rental terms with each other. Once a member has found a match, they can decide on an honor-based success fee of any amount that supports Sabbatical Homes and keeps the site advertisement-free.
+- Vacasa https://www.vacasa.com/ - This Portland-based vacation rental company and offers around 25,000 vacation homes around the world. Instead of relying on the home-sharing system, Vacasa curates the properties and pays over employees to clean and maintain them. Even though Vacasa isn’t a peer-to-peer home-sharing company, it still offers good prices on vacation rentals and claims more consistent quality than competitors like Airbnb.
+- The Plum Guide https://www.plumguide.com/ - This London-based start-up bills itself as the Michelin Guide for vacation homes. The company selects its properties based on 150-point.  With properties in London, Paris, New York, Los Angeles, Rome, Milan, Copenhagen, Madrid, Barcelona, Lisbon, Berlin, and more, The Plum Guide also has a customer service that team that is available via call back, email, or a live chat.
+- Kid and Coe https://www.kidandcoe.com/ - Enter Kid and Coe, a site launched in 2013 that offers plenty of kid-focused amenities. Listings tell parents exactly how many people – and what age – the property can handle, and the site offers extensive descriptions of toys, baby gear, and beds.
+- BoutiqueHomes https://www.boutique-homes.com/ - If architecture and design are just as important as relaxation on your vacation, Boutique Homes could be the site for you. With a highly curated collection of design-driven homes—listed by invitation only –Boutique Homes offers dramatic locations and stays in some of the most beautiful properties in the world. It also provides an impressive list of event venues available for rent.
+- FlipKey https://www.flipkey.com/ - Now owned by TripAdvisor, FlipKey doesn’t provide shared rooms, but you can use lots of filters to find the perfect dog-friendly, kid-friendly, or waterfront property.
+- Homestay https://www.homestay.com/ - If cost is your biggest deciding factor, consider booking with Homestay. But by booking with Homestay, you get an in-the-know local who can give advice and help you navigate the city. 
+- Wimdu https://www.wimdu.com/ - Wimdu has about 350,000 properties around the world and is especially popular in Europe. There’s a nice selection of well-priced properties, from a room in an Amsterdam apartment to a whole-house getaway in Croatia. 
 
 From the Travel Freak.com by Jeremy Scott Foster, these are his recommended alternatives that travelers need to know about:
-- Vrbo https://www.vrbo.com/ 
-(An acronym for Vacation Rentals by Owner). It has around 2 million house rentals around the world. The thing that differentiates is the size of the properties. The properties on Vrbo are bigger and have backyards.
-- TurnKey https://www.turnkeyvr.com/
-For Turnkey’s own rental properties, you get given a door code instead of a key. This offers a bit more freedom to the busy traveler and eliminates the problem of losing the key. To obtain the door code for your rental property, you will need to download an app.
-- Booking.com https://www.booking.com/
-You can book apartments and vacation rentals with the same easy-to-book interface.
-- Outdoorsy https://www.outdoorsy.com/
-Hit the road and explore the great outdoors by renting an RV or campervan with Outdoorsy. It is the Airbnb of the motorhome world, with over 14 million RV rentals to choose from. Browse through vintage airstreams, modern campers, and luxury Winnebagos made for every type of trip.
-- onefinestay https://www.onefinestay.com/
-It offers upscale vacation rentals in London, Los Angeles, New York, Paris, and Rome. They call their curated collection of homes “unhotels.” 
-- Hipcamp https://www.hipcamp.com/en-US
-Hipcamp caters entirely to campers and nature lovers, but the listings here cover a huge range of different accommodations, including tents, RV parks, cabins, and treehouses. Hipcamps lists 13,047 parks, 25,978 campgrounds, and 425,938 campsites all over the States. 
+- Vrbo https://www.vrbo.com/ - (An acronym for Vacation Rentals by Owner). It has around 2 million house rentals around the world. The thing that differentiates is the size of the properties. The properties on Vrbo are bigger and have backyards.
+- TurnKey https://www.turnkeyvr.com/ - For Turnkey’s own rental properties, you get given a door code instead of a key. This offers a bit more freedom to the busy traveler and eliminates the problem of losing the key. To obtain the door code for your rental property, you will need to download an app.
+- Booking.com https://www.booking.com/ - You can book apartments and vacation rentals with the same easy-to-book interface.
+- Outdoorsy https://www.outdoorsy.com/ - Hit the road and explore the great outdoors by renting an RV or campervan with Outdoorsy. It is the Airbnb of the motorhome world, with over 14 million RV rentals to choose from. Browse through vintage airstreams, modern campers, and luxury Winnebagos made for every type of trip.
+- onefinestay https://www.onefinestay.com/ - It offers upscale vacation rentals in London, Los Angeles, New York, Paris, and Rome. They call their curated collection of homes “unhotels.” 
+- Hipcamp https://www.hipcamp.com/en-US - Hipcamp caters entirely to campers and nature lovers, but the listings here cover a huge range of different accommodations, including tents, RV parks, cabins, and treehouses. Hipcamps lists 13,047 parks, 25,978 campgrounds, and 425,938 campsites all over the States. 
 - Agoda Homes https://www.agoda.com/homes
 This has long been the largest online travel agency in Asia, providing more than 1.8 million quality accommodations ranging from hotels, resorts, budget hostels, and now, homes.
-- Third Home https://www.thirdhome.com/
-Third Home specializes in high-end vacation rentals like mansions, penthouses, and luxury villas. The homes must be more than $500k, be in a desirable location with luxurious furnishings.
-- 9flats https://www.9flats.com/
-Instead of just a room, 9flats gives the whole place to stay in. The website tells that 9flats.com, an alternative to hotels and offers affordable vacation rentals including apartments and rentals of all types around the world.
-- HomeToGo https://www.hometogo.com/
-HomeToGo is one of the best options for people on a strict budget. Since they compare so many prices for rentals from hundreds of providers and they guarantee to give the best price.
+- Third Home https://www.thirdhome.com/ - Third Home specializes in high-end vacation rentals like mansions, penthouses, and luxury villas. The homes must be more than $500k, be in a desirable location with luxurious furnishings.
+- 9flats https://www.9flats.com/ - Instead of just a room, 9flats gives the whole place to stay in. The website tells that 9flats.com, an alternative to hotels and offers affordable vacation rentals including apartments and rentals of all types around the world.
+- HomeToGo https://www.hometogo.com/ - HomeToGo is one of the best options for people on a strict budget. Since they compare so many prices for rentals from hundreds of providers and they guarantee to give the best price.
 
 
 # Conclusion 
