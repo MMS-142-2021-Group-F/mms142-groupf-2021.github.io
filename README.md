@@ -1,13 +1,8 @@
 # mms142-groupf-2021
 
-Topic: Online Booking Systems (services and rentals)
+# Disruptive Technologies : Online Booking System
 
-Online Booking Services
-Brief history and current situation
-Why is Online Booking Services disruptive?
-What field/market is it disrupting?
-Alternatives? 
-Conclusion
+![](images/pexels-karolina-grabowska-4968390.jpg)
 
 # What is Disruptive Technology?
 
@@ -25,7 +20,7 @@ Also, if you need to repeat your booking, your data is safely stored and recorde
 
 To put it briefly, Maslovska (2018) summarizes the online booking system as a modern and effortless booking process convenient for traveling and even in boosting sales with everything done digitally.
 
-
+![](images/pexels-max-vakhtbovych-7031711.jpg)
 
 # Brief History and Current Situation of Online Booking System
 
@@ -128,6 +123,7 @@ From the Travel Freak.com by Jeremy Scott Foster, these are his recommended alte
 
 Through the years, online booking made everything more comfortable, fast, convenient, and practical. Everything has its pros and cons though. As mentioned above, in some ways, it is disruptive. It's not like we can go back to the traditional ways though. Technically, we can. Still, we would never opt to do so. Technology is constantly upgrading and so are our ways. We would be left out by the world if we don't apply changes like how every other part of the world is doing so. The only option we have is to choose the best ones that are currently available. In this case, which online booking system, despite its flaws and disruptiveness will benefit us the most? As time passes by, the current issues that we have with will most probably be resolved though there would be new ones.
 
+![](images/pexels-olya-kobruseva-8938729.jpg)
 
 # References
 Barber, M. (2020, September 24). The 10 Best Alternatives to Airbnb. New York Curbed. https://www.curbed.com/article/airbnb-vacation-rental-alternatives.html
