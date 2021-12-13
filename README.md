@@ -128,7 +128,7 @@ Through the years, online booking made everything more comfortable, fast, conven
 # References
 Barber, M. (2020, September 24). The 10 Best Alternatives to Airbnb. New York Curbed. https://www.curbed.com/article/airbnb-vacation-rental-alternatives.html
 
-Foster, J.S. (2021, July 30). 15 Airbnb Alternatives You Should Know About. TravelFreak. https://travelfreak.com/airbnb-alternative/
+Foster, J. S. (2021, July 30). 15 Airbnb Alternatives You Should Know About. TravelFreak. https://travelfreak.com/airbnb-alternative/
 
 Bearne, S. (2017, December 29). How technology has transformed the travel industry. The Guardian. https://www.theguardian.com/media-network/2016/feb/29/technology-internet-transformed-travel-industry-airbnb
 
