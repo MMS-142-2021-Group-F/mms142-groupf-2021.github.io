@@ -142,3 +142,13 @@ Advantages of booking online appointments versus over the phone. (2018, July 4).
 History of Flight Booking: CRSs, GDS Distribution, Travel Agencies, and Online Reservations. (2019, November 11). AltexSoft. https://www.altexsoft.com/blog/travel/history-of-flight-booking-crss-gds-distribution-travel-agencies-and-online-reservations/
 
 Veloso, A. R. (2021, November 15). The latest trends in Online Booking System. EasyPractice. https://easypractice.net/the-latest-trends-in-online-booking-system/
+
+5 Reasons Why Using A Booking Reservation System Would Help Improve Your Efficiency. (2019, June 28). Ingenium Web. https://www.ingeniumweb.com/blog/post/5-reasons-why-using-a-booking-reservation-system-would-help-improve-your-efficiency/4548/
+
+8 Disruptive Hotel Technology Trends to Watch in 2022. (2021, December 7). Hotel Tech Report. https://hoteltechreport.com/news/hotel-tech-trends-2021
+ 
+10 Best Property Management Systems for Hotels 2021. (n.d.). Hotel Tech Report.  https://hoteltechreport.com/operations/property-management-systems#overview
+
+Maslovska, O. (2018). What an Online Booking System Is and Why Your Travel and Hospitality Business Needs It. Stfalcon. https://stfalcon.com/en/blog/post/online-booking-system  
+
+Baker, S. (2019, October 15). What is online booking software? A comprehensive guide to benefits, features, pricing and more. Financesonline.com. Retrieved December 12, 2021, from https://financesonline.com/online-booking-software-comprehensive-guide-benefits-features-pricing/
