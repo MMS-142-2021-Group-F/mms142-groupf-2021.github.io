@@ -38,30 +38,30 @@ Before the CRS or Computerized Reservation System development, many tourists dep
 
 - WorldSpan (1990) offers the worldwide electronic distribution of travel inventory, internet products, connectivity, and e-commerce capabilities for travel agencies, travel providers, and corporations. 
 
-1994
+**1994**
 - With the emergence of the Internet and the formation of travel post on GDS, the Internet became available for the mass user, airlines, travel agents, and GDS providers became online. 
 
-1996
+**1996**
 - Travelocity.com is the first online travel agent that sells airplane tickets, destination information, hotel recommendation, and restaurants. 
 - Microsoft launches Expedia that offers travel services on Microsoft Networks.
 
-2000
+**2000**
 - Priceline.com was founded, they offer discount flights.
 - Major American carriers launch Hotwire. 
 
-2001-2004
+**2001-2004**
 - Orbitz and KAYAK foundation are known as the number one flights and travel search engines. 
 
-2004
+**2004**
 - The emergence of Skyscanner, one of the biggest travel meta-search engines.
 
-2009
+**2009**
 - Introduction of mobile booking
 
-2011
+**2011**
 - Google launched its own flight booking platform, Google flights.
 
-2019
+**2019**
 - With the current state of online booking, online payment systems have become much more secure, have fast processing, and can even make transactions with crypto currencies. It allows travelers to plan a week long-trips in minutes, book flights, hotel rooms, and rent cars in just a few taps.
 
 Today, the online booking system is widely used and has been growing in popularity at a very high pace as it makes the booking process faster and convenient. Before this system became available, some worked with a series of spreadsheets and entered the information manually through the old over-the-phone booking systems. Thus, it is time-consuming, prone to human error, and requires more staff members to keep track and manage bookings. As the business grows, it becomes more and more complicated and complex to manage and input the data manually in multiple documents.
@@ -136,3 +136,9 @@ Bearne, S. (2017, December 29). How technology has transformed the travel indust
 Bio, A. R., Bremner, C., Yasmeen, R., Bremner, C., Bremner, C., & Chokossa, C. (2021, March 23). Disruptive Innovation Proceeds Steadily in Online Travel: Euromonitor. https://www.euromonitor.com/article/disruptive-innovation-proceeds-steadily-in-online-travel-the-key-trends
 
 R, M. (2019, December 1). How disruptive tech companies disrupt our norms: Airbnb. Medium. https://medium.com/swlh/how-disruptive-tech-companies-disrupt-our-norms-airbnb-b9d4698713a5
+
+Advantages of booking online appointments versus over the phone. (2018, July 4). Amelia WordPress Booking Plugin. https://wpamelia.com/booking-online/
+
+History of Flight Booking: CRSs, GDS Distribution, Travel Agencies, and Online Reservations. (2019, November 11). AltexSoft. https://www.altexsoft.com/blog/travel/history-of-flight-booking-crss-gds-distribution-travel-agencies-and-online-reservations/
+
+Veloso, A. R. (2021, November 15). The latest trends in Online Booking System. EasyPractice. https://easypractice.net/the-latest-trends-in-online-booking-system/
