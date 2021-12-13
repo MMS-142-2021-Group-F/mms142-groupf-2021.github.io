@@ -19,7 +19,12 @@ An online booking system allows customers to appoint or reserve a service conven
 
 The most common services that utilize this system are property/room rentals, such as staycations and private resorts, and transportation services. This type of system then is used mostly by travelers and tourists as it is accessible, time-saving, and provides a smooth and easy transaction. A software platform for such usually has multiple listings posted so customers can check out the property/service, along with the price. Further, clients can determine how great or unsatisfactory the service has accommodated past customers through posted reviews, allowing them to choose and book excellent services of their choice. 
 
+Online booking and reservation systems can be integrated or embedded into your website or social media pages without having to undergo the installation of the application. Customers can just click the link and they will automatically be routed to the website to book their reservation. Online payment processes are also considered safe and secure, including transaction details and customer data because they are securely stored in a cloud content management system protected by encryption and SSL security protocol, accessible only through login and password, and today with the added security you will be required to enter your One-time-password(OTP) sent to your mobile number. The process is not only easy but also hassle-free because it will only take a few minutes to complete and in the comfort of your home, office, or wherever you may be.
+
+Also, if you need to repeat your booking, your data is safely stored and recorded for any changes or updates of your information. You will also be able to track your booking and be notified through email or SMS for any changes, cancellations, or reminders. Online booking systems simplify, automate, and expedite all processes not only for individual clients but also for big groups and businesses from customer details, payment method, booking, and up to reminders of the date of reservation.  
+
 To put it briefly, Maslovska (2018) summarizes the online booking system as a modern and effortless booking process convenient for traveling and even in boosting sales with everything done digitally.
+
 
 
 # Brief History and Current Situation of Online Booking System
