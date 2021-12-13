@@ -11,7 +11,7 @@ Conclusion
 
 # What is Disruptive Technology?
 
-
+Disruptive Technology shakes up the current market and paves the path for innovation. It becomes the impetus to the ever-growing market, changing up how the market usually operates by introducing new systems and business models. This then leads to Disruptive Innovation that is a dynamic which evolves and changes the state of technological affairs for a specific point in time due to the impact of a Disruptive Technology in the trading industry.
 
 # What is an online booking system and how does it work
 
@@ -155,3 +155,8 @@ Veloso, A. R. (2021, November 15). The latest trends in Online Booking System. E
 Maslovska, O. (2018). What an Online Booking System Is and Why Your Travel and Hospitality Business Needs It. Stfalcon. https://stfalcon.com/en/blog/post/online-booking-system  
 
 Baker, S. (2019, October 15). What is online booking software? A comprehensive guide to benefits, features, pricing and more. Financesonline.com. Retrieved December 12, 2021, from https://financesonline.com/online-booking-software-comprehensive-guide-benefits-features-pricing/
+
+McKelvey J. (2020, May 8). Good Entrepreneurs Don't Set Out to Disrupt. Harvard Business Review. https://hbr.org/2020/05/good-entrepreneurs-dont-set-out-to-disrupt
+
+Wardynski DJ. (2019, November 21). Disruptive Technology Examples: How To Spot Them Easily.  Brainspire. https://www.brainspire.com/blog/disruptive-technology-examples-how-to-spot-them-easily
+
