@@ -11,9 +11,7 @@ Conclusion
 
 # What is Disruptive Technology?
 
-There are also online booking platforms that operates as an online marketplace. This means that the system does not own what are being sold on their platform but is accepting commissions from businesses posting their lodging services in to the platform. For example, Airbnb, it does not only operates for 1 or 2 hotels but is open to any home or room owner who accepts renting out their local homes for accommodation. Opening a booking online marketplace will be a threat to companies who have set up their own booking sytem solely for only their place or service. Locals who want to avail a place or service would prefer a booking marketplace since they will have more options rather than choosing from one company. 
 
-*Idk if this is supposed to be the Definition of the term Disruptive technology or not
 
 # What is an online booking system and how does it work
 
