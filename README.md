@@ -88,7 +88,8 @@ According to New York Curbed by Megan Barber, Airbnb is undeniably popular: Now 
 - Homestay https://www.homestay.com/ > If cost is your biggest deciding factor, consider booking with Homestay. But by booking with Homestay, you get an in-the-know local who can give advice and help you navigate the city. 
 - Wimdu https://www.wimdu.com/ > Wimdu has about 350,000 properties around the world and is especially popular in Europe. There’s a nice selection of well-priced properties, from a room in an Amsterdam apartment to a whole-house getaway in Croatia. 
 
-From the Travel Freak.com by Jeremy Scott Foster, these are his recommended alternatives that travelers need to know about:
+Jeremy Scott Foster, who is a traveler and has built TravelFreak.com. According to him, his travel advice has been featured by The New York Times, Vanity Fair, Forbes, National Geographic. INSIDER, BuzzFeed, The Boston Globe, USA Today, and more. These are his recommended alternatives to travelers:
+
 - Vrbo https://www.vrbo.com/ > (An acronym for Vacation Rentals by Owner). It has around 2 million house rentals around the world. The thing that differentiates is the size of the properties. The properties on Vrbo are bigger and have backyards.
 - TurnKey https://www.turnkeyvr.com/ > For Turnkey’s own rental properties, you get given a door code instead of a key. This offers a bit more freedom to the busy traveler and eliminates the problem of losing the key. To obtain the door code for your rental property, you will need to download an app.
 - Booking.com https://www.booking.com/ > You can book apartments and vacation rentals with the same easy-to-book interface.
