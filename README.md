@@ -73,6 +73,22 @@ Also to add to that, these platforms are powered primarily by tech companies tha
 
 Another clear indication of the disruption is that the traditional players are properly starting to adapt this tech towards their business in multiple ways, either by working with the tech firms running these new platforms (operating taxi bookings on Grab etc.) or improving their own established systems (constant improvement of services from the Expedia Group and Booking Holdings, two of the biggest existing online bookers for traditional traveling) in order to compete in this new market landscape or to suffer irrelevancy as a result.
 
+# What field/market is it disrupting?
+
+New technologies have affected numerous industries within the past decade. Traditional hospitality businesses and travel agencies have transitioned to using new business models such as alternative accommodation like Airbnb and Housetrip, and ride-sharing applications like Uber. These new business models are derived from online booking systems and have been impacting customers’ and hospitality businesses alike.
+
+In the digital age, we’ve put more importance on personalized services. This would mean that industries who can offer customised experiences become more relevant.
+
+According to Angelo Rossini (Bearne, 2016), a contributing analyst at Euromonitor International, “Traditional travel distribution in which high street travel agencies played a dominant role was revolutionised with online travel agencies and direct distribution through airlines and hotels’ websites acquiring a key role.” Rossini adds that the rise of independent travel killed off tour operators and traditional travel agencies (Bearne, 2016). The disruption has affected both the **travel industry** and **hospitality industries** like **hotel and/or lodging** forcing them to adapt, thus introducing the online booking system.
+
+Airbnb, as one of the biggest disruptor to the travel industry, gave rise to numerous similar online lodging companies. Within an ever-evolving space, this technology has given small businesses a platform, thus expanding the reach and accessibility of this phenomenon.
+
+Consumer relations and hospitality have also been reshaped by technology. With an online booking system, communication and travel are made easy. Stephan Croix, the vice-president of marketing at Starwood Hotels and Resorts, owner of hotel chains W Hotels and Aloft, states that “it is also transforming every phase of hospitality – from finding a hotel, to checking in, to unlocking your door and personalising your stay. As travel is inherently mobile, travellers expect to use their mobile devices to enrich their travel experiences” (Bearne, 2016).
+
+Through the use of online booking systems, these affected industries can provide more convenient processes and allow customers more control over their experience. Industries who use online booking systems will appeal to guests because they focus on giving them options about the commodities they want to see like choice accommodations or expected amenities. On the other hand, hoteliers and travel agencies use online booking systems to manage reservations, availability, billing and reporting. This allows owners to manage business operations efficiently.
+
+Because of this, the customer journey is transforming. What’s next for these industries is to live up to client expectations and think of more ways to stay afloat.
+
 # Alternatives
 
 According to New York Curbed by Megan Barber, Airbnb is undeniably popular: Now in 100,000 cities, with seven million rental listings worldwide. At the same time, the company and its competitors have battled local zoning laws that prohibit short-term rentals and fought grassroots movements aiming to limit where and how short-term rental companies can operate. These are a helpful guide by Megan Barber to other options in the vacation rental market:
@@ -127,34 +143,34 @@ With the innovations of digital technology, online booking made everything more 
 ![](images/pexels-olya-kobruseva-8938729.jpg)
 
 # References
-Barber, M. (2020, September 24). The 10 Best Alternatives to Airbnb. New York Curbed. https://www.curbed.com/article/airbnb-vacation-rental-alternatives.html
-
-Foster, J. S. (2021, July 30). 15 Airbnb Alternatives You Should Know About. TravelFreak. https://travelfreak.com/airbnb-alternative/
-
-Bearne, S. (2017, December 29). How technology has transformed the travel industry. The Guardian. https://www.theguardian.com/media-network/2016/feb/29/technology-internet-transformed-travel-industry-airbnb
-
-Bio, A. R., Bremner, C., Yasmeen, R., Bremner, C., Bremner, C., & Chokossa, C. (2021, March 23). Disruptive Innovation Proceeds Steadily in Online Travel: Euromonitor. https://www.euromonitor.com/article/disruptive-innovation-proceeds-steadily-in-online-travel-the-key-trends
-
-R, M. (2019, December 1). How disruptive tech companies disrupt our norms: Airbnb. Medium. https://medium.com/swlh/how-disruptive-tech-companies-disrupt-our-norms-airbnb-b9d4698713a5
-
-Advantages of booking online appointments versus over the phone. (2018, July 4). Amelia WordPress Booking Plugin. https://wpamelia.com/booking-online/
-
-History of Flight Booking: CRSs, GDS Distribution, Travel Agencies, and Online Reservations. (2019, November 11). AltexSoft. https://www.altexsoft.com/blog/travel/history-of-flight-booking-crss-gds-distribution-travel-agencies-and-online-reservations/
-
-Veloso, A. R. (2021, November 15). The latest trends in Online Booking System. EasyPractice. https://easypractice.net/the-latest-trends-in-online-booking-system/
-
 5 Reasons Why Using A Booking Reservation System Would Help Improve Your Efficiency. (2019, June 28). Ingenium Web. https://www.ingeniumweb.com/blog/post/5-reasons-why-using-a-booking-reservation-system-would-help-improve-your-efficiency/4548/
 
 8 Disruptive Hotel Technology Trends to Watch in 2022. (2021, December 7). Hotel Tech Report. https://hoteltechreport.com/news/hotel-tech-trends-2021
  
 10 Best Property Management Systems for Hotels 2021. (n.d.). Hotel Tech Report.  https://hoteltechreport.com/operations/property-management-systems#overview
 
-Maslovska, O. (2018). What an Online Booking System Is and Why Your Travel and Hospitality Business Needs It. Stfalcon. https://stfalcon.com/en/blog/post/online-booking-system  
+Advantages of booking online appointments versus over the phone. (2018, July 4). Amelia WordPress Booking Plugin. https://wpamelia.com/booking-online/
 
 Baker, S. (2019, October 15). What is online booking software? A comprehensive guide to benefits, features, pricing and more. Financesonline.com. Retrieved December 12, 2021, from https://financesonline.com/online-booking-software-comprehensive-guide-benefits-features-pricing/
 
-McKelvey J. (2020, May 8). Good Entrepreneurs Don't Set Out to Disrupt. Harvard Business Review. https://hbr.org/2020/05/good-entrepreneurs-dont-set-out-to-disrupt
+Barber, M. (2020, September 24). The 10 Best Alternatives to Airbnb. New York Curbed. https://www.curbed.com/article/airbnb-vacation-rental-alternatives.html
 
-Wardynski DJ. (2019, November 21). Disruptive Technology Examples: How To Spot Them Easily.  Brainspire. https://www.brainspire.com/blog/disruptive-technology-examples-how-to-spot-them-easily
+Bearne, S. (2017, December 29). How technology has transformed the travel industry. The Guardian. https://www.theguardian.com/media-network/2016/feb/29/technology-internet-transformed-travel-industry-airbnb
+
+Bio, A. R., Bremner, C., Yasmeen, R., Bremner, C., Bremner, C., & Chokossa, C. (2021, March 23). Disruptive Innovation Proceeds Steadily in Online Travel: Euromonitor. https://www.euromonitor.com/article/disruptive-innovation-proceeds-steadily-in-online-travel-the-key-trends
 
 Campbell, C. (2020). Benefits of an online booking system. systembookings. https://www.systembookings.com/benefits-online-booking-system/
+
+Foster, J. S. (2021, July 30). 15 Airbnb Alternatives You Should Know About. TravelFreak. https://travelfreak.com/airbnb-alternative/
+
+History of Flight Booking: CRSs, GDS Distribution, Travel Agencies, and Online Reservations. (2019, November 11). AltexSoft. https://www.altexsoft.com/blog/travel/history-of-flight-booking-crss-gds-distribution-travel-agencies-and-online-reservations/
+
+Maslovska, O. (2018). What an Online Booking System Is and Why Your Travel and Hospitality Business Needs It. Stfalcon. https://stfalcon.com/en/blog/post/online-booking-system  
+
+McKelvey J. (2020, May 8). Good Entrepreneurs Don't Set Out to Disrupt. Harvard Business Review. https://hbr.org/2020/05/good-entrepreneurs-dont-set-out-to-disrupt
+
+R, M. (2019, December 1). How disruptive tech companies disrupt our norms: Airbnb. Medium. https://medium.com/swlh/how-disruptive-tech-companies-disrupt-our-norms-airbnb-b9d4698713a5
+
+Veloso, A. R. (2021, November 15). The latest trends in Online Booking System. EasyPractice. https://easypractice.net/the-latest-trends-in-online-booking-system/
+
+Wardynski DJ. (2019, November 21). Disruptive Technology Examples: How To Spot Them Easily.  Brainspire. https://www.brainspire.com/blog/disruptive-technology-examples-how-to-spot-them-easily
