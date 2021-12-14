@@ -81,11 +81,20 @@ In the digital age, we’ve put more importance on personalized services. This w
 
 According to Angelo Rossini (Bearne, 2017), a contributing analyst at Euromonitor International, “Traditional travel distribution in which high street travel agencies played a dominant role was revolutionised with online travel agencies and direct distribution through airlines and hotels’ websites acquiring a key role.” Rossini adds that the rise of independent travel killed off tour operators and traditional travel agencies (Bearne, 2016). The disruption has affected both the **travel industry** and **hospitality industries** like **hotel and/or lodging** forcing them to adapt, thus introducing the online booking system.
 
+ 
+<p align="center">
+    <img src="images/OnlineBookingSystem1.gif" alt="Online Booking System: Using an Online Booking System can improve your business' performance. It allows you to streamline services and run operations efficiently.">
+</p>
+
 Airbnb, as one of the biggest disruptor to the travel industry, gave rise to numerous similar online lodging companies. Within an ever-evolving space, this technology has given small businesses a platform, thus expanding the reach and accessibility of this phenomenon.
 
 Consumer relations and hospitality have also been reshaped by technology. With an online booking system, communication and travel are made easy. Stephan Croix, the vice-president of marketing at Starwood Hotels and Resorts, owner of hotel chains W Hotels and Aloft, states that “it is also transforming every phase of hospitality – from finding a hotel, to checking in, to unlocking your door and personalising your stay. As travel is inherently mobile, travellers expect to use their mobile devices to enrich their travel experiences” (Bearne, 2017).
 
 Through the use of online booking systems, these affected industries can provide more convenient processes and allow customers more control over their experience. Industries who use online booking systems will appeal to guests because they focus on giving them options about the commodities they want to see like choice accommodations or expected amenities. On the other hand, hoteliers and travel agencies use online booking systems to manage reservations, availability, billing and reporting. This allows owners to manage business operations efficiently.
+
+<p align="center">
+    <img src="images/OnlineBookingSystem2.gif" alt="Online Booking System Features: User-friendly interface. Customers can easily make their bookings without employee intervention, while businesses can check-in guests faster. | Booking Inventory. Businesses can keep track of guest profiles and reservations. This also prevents overbookings. | Central Dashboard. Businesses can streamline employee schedules and tasks, and monitor key metrics. Organized transactions can improve efficiency. | Communication. Automated communications can help improve customer experience. This way, businesses can also avoid workflow disruption. | Payment Pricessing. Businesses can personalize their fees, taxes, and payment methods. Both businesses and clients enjoy automated payments and contactless transactions.">
+</p>
 
 Because of this, the customer journey is transforming. What’s next for these industries is to live up to client expectations and think of more ways to stay afloat.
 
