@@ -1,4 +1,3 @@
-# mms142-groupf-2021
 
 # Disruptive Technologies : Online Booking System
 
