@@ -128,7 +128,7 @@ According to New York Curbed by Megan Barber, Airbnb is undeniably popular: Now 
 
 - [Booking.com](https://www.booking.com/) > You can book apartments and vacation rentals with the same easy-to-book interface.
 
-- ![Outdoorsy](https://www.outdoorsy.com/) > Hit the road and explore the great outdoors by renting an RV or campervan with Outdoorsy. It is the Airbnb of the motorhome world, with over 14 million RV rentals to choose from. Browse through vintage airstreams, modern campers, and luxury Winnebagos made for every type of trip.
+- [Outdoorsy](https://www.outdoorsy.com/) > Hit the road and explore the great outdoors by renting an RV or campervan with Outdoorsy. It is the Airbnb of the motorhome world, with over 14 million RV rentals to choose from. Browse through vintage airstreams, modern campers, and luxury Winnebagos made for every type of trip.
 
 - [onefinestay](https://www.onefinestay.com/) > It offers upscale vacation rentals in London, Los Angeles, New York, Paris, and Rome. They call their curated collection of homes “unhotels.” 
 
