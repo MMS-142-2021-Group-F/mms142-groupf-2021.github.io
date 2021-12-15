@@ -120,7 +120,7 @@ According to New York Curbed by Megan Barber, Airbnb is undeniably popular: Now 
 
 - [Wimdu](https://www.wimdu.com/) > Wimdu has about 350,000 properties around the world and is especially popular in Europe. There’s a nice selection of well-priced properties, from a room in an Amsterdam apartment to a whole-house getaway in Croatia. 
 
-Jeremy Scott Foster, who is a traveler and has built [TravelFreak.com](https://www.travelfreak.com). According to him, his travel advice has been featured by The New York Times, Vanity Fair, Forbes, National Geographic. INSIDER, BuzzFeed, The Boston Globe, USA Today, and more. These are his recommended alternatives to travelers:
+Jeremy Scott Foster, who is a traveler and has built [TravelFreak.com](https://www.travelfreak.com). According to him, his travel advice has been featured by The New York Times, Vanity Fair, Forbes, National Geographic. INSIDER, BuzzFeed, The Boston Globe, USA Today, and more. The following are recommended alternatives by Jeremy Scott Foster for travelers:
 
 - [Vrbo](https://www.vrbo.com/) > (An acronym for Vacation Rentals by Owner). It has around 2 million house rentals around the world. The thing that differentiates is the size of the properties. The properties on Vrbo are bigger and have backyards.
 
